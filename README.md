@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome to my Github 👋
+<br>
+<div align="center">
+<h2>Feel free to have a look at my Data Science projects</h2> 
+</div>
 
-<!--
-**laurent8119/laurent8119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After working in the automotive sector and the internet industry in multinationals as in startup, I’ve decided to start a new professional chapter and have successfully completed **the bootcamp of Data science** from The bridge.  
+<br>
 
-Here are some ideas to get you started:
+**Data Analysis** is my personal favorite discipline and I look forward to put into practice the skills I have learned and to share the experience I have gained along the companies I’ve worked for.  
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on  <a href="https://www.linkedin.com/in/laurent-jacquet-61b513102"><img src="https://img.shields.io/badge/-LinkedIn-blue">
